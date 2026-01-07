@@ -5,3 +5,5 @@ edition = "2024"
 
 [dependencies]
 rdev = "0.5"
+core-foundation = "0.9"
+core-graphics = "0.23"
